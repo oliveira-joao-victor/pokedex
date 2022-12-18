@@ -1,0 +1,20 @@
+@import url(./pokemons.css);
+
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content {
+    padding: 0.5rem;
+    background-color: ghostwhite;
+    border-radius: 0.25rem;
+}
